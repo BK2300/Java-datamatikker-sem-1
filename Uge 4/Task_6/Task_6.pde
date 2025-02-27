@@ -2,11 +2,11 @@ int tileSize = 40;  // Størrelsen af hvert felt
 int cols = 8, rows = 8;  // Antal rækker og kolonner
 
 void settings() {
-  size(cols * tileSize, rows * tileSize); // ✅ Flyttet til settings()
+  size(cols * tileSize, rows * tileSize); 
 }
 
 void setup() {
-  drawBoard(); // Tegn skakbrættet én gang i setup
+  drawBoard(); // Tegn skakbrættet
 }
 
 void drawBoard() {
