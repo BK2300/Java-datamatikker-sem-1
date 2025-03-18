@@ -1,0 +1,68 @@
+I would structure listening like this:
+
+- Levels 1-10: Basic Java (variables, loops, conditions, functions)
+- Levels 11-20: Object-oriented programming (classes, objects, inheritance, interfaces)
+- Levels 21-30: Data structures and algorithms (arrays, lists, stacks, recursion)
+- Levels 31-40: Advanced concepts (files, database connections, threads, networks)
+- Levels 41-50: Mini-projects and software development (games, APIs, frameworks)
+
+
+
+Level,Projekt
+1,Hello World program
+2,"Lommeregner (plus, minus, gange, divider)"
+3,Gæt et tal (brugeren gætter et tilfældigt tal)
+4,Tæl til 100 med en for-loop
+5,Udskriv Fibonacci-sekvensen
+6,Find om et tal er primtal
+7,Omregner (Celsius til Fahrenheit)
+8,Brugerinput og betingelser (if-else)
+9,Miniprogram der skriver dit navn baglæns
+10,Udregn summen af tallene fra 1 til N
+11,Lav en simpel klasse for en bil med attributter
+12,Opret en Person-klasse med navn og alder
+13,Brug arv til at lave en Student-klasse fra Person
+14,Implementer et interface for en Betaling-service
+15,En simpel bankkonto med ind- og udbetaling
+16,En bogliste med en klasse for en bog
+17,En simpel loginsystem med brugernavne og passwords
+18,Opret en klasse for en cirkel med metoder til beregninger
+19,Kode et bibliotekssystem med lånte bøger
+20,"Kode en simpel kontaktbog, der gemmer kontakter i en liste"
+21,Lav en simpel liste med CRUD-operationer
+22,Implementer en stack (LIFO)
+23,Implementer en queue (FIFO)
+24,Find det største tal i en liste
+25,Sorter en liste med Bubble Sort
+26,Lav en søgefunktion i en liste (Linear Search)
+27,Binary Search på en sorteret liste
+28,Rekursion: Faktorial beregning
+29,Rekursion: Find Fibonacci-tal
+30,Implementer et HashMap til at gemme data
+31,Læs og skriv til en fil
+32,Lav en simpel login-app med databaseforbindelse
+33,Brug tråde til at køre to processer samtidig
+34,Opret en simpel chat-app med sockets
+35,Lav et simpelt JSON API-parser
+36,Opret et simpelt web-scraper program
+37,Brug JDBC til at gemme og hente data fra en database
+38,Lav en password-generator
+39,Implementer en algoritme til at finde korteste vej (Dijkstra)
+40,Opret en krypteringsfunktion med Java Security
+41,Simpelt CLI Todo-list program
+42,En mini-bankapplikation med database
+43,En lille webshop med produkter og brugere
+44,Et simpelt login- og registreringssystem
+45,Et tekstbaseret eventyrspil
+46,En Sudoku-løser
+47,Et simpelt Snake-spil
+48,En mini-chess-app med AI-modstander
+49,"En vejr-app, der henter data fra et API"
+50,"Et lille socialt netværkssystem med brugere, opslag og kommentarer"
+
+
+
+
+
+
+
