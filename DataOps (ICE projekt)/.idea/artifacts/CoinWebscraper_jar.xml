@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CoinWebscraper:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CoinWebscraper_jar</output-path>
+    <root id="archive" name="CoinWebscraper.jar">
+      <element id="module-output" name="CoinWebscraper" />
+    </root>
+  </artifact>
+</component>
